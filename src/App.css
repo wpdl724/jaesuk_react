@@ -1,0 +1,12 @@
+#wrap {
+  background-color: teal;
+  text-align: center;
+}
+#wrap img {margin: 0 auto;}
+#wrap h1{
+  background-color: tan;
+  font-size: 1rem;
+}
+#wrap ul{}
+#wrap ul li{}
+
